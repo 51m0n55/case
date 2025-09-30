@@ -1,0 +1,223 @@
+font.png:
+  type: font
+  name: font
+  charset: print
+  grid.size: 3x5
+  grid.padding: 1
+  proportional: true
+
+CZ75.png:
+    type: bopti-image
+    name: S_CZ75
+
+DESERT_EAGLE.png:
+    type: bopti-image
+    name: S_DESERT_EAGLE
+
+DUAL_BARRETAS.png:
+    type: bopti-image
+    name: S_DUAL_BARRETAS
+
+FIVE_SEVEN.png:
+    type: bopti-image
+    name: S_FIVE_SEVEN
+
+GLOCK_18.png:
+    type: bopti-image
+    name: S_GLOCK_18
+
+P2000.png:
+    type: bopti-image
+    name: S_P2000
+
+P250.png:
+    type: bopti-image
+    name: S_P250
+
+R8_REVOLVER.png:
+    type: bopti-image
+    name: S_R8_REVOLVER
+
+TEC_9.png:
+    type: bopti-image
+    name: S_TEC_9
+
+USP_S.png:
+    type: bopti-image
+    name: S_USP_S
+
+AK_47.png:
+    type: bopti-image
+    name: S_AK_47
+
+AUG.png:
+    type: bopti-image
+    name: S_AUG
+
+AWP.png:
+    type: bopti-image
+    name: S_AWP
+
+FAMAS.png:
+    type: bopti-image
+    name: S_FAMAS
+
+G3SG1.png:
+    type: bopti-image
+    name: S_G3SG1
+
+GALIL_AR.png:
+    type: bopti-image
+    name: S_GALIL_AR
+
+M4A1_S.png:
+    type: bopti-image
+    name: S_M4A1_S
+
+M4A4.png:
+    type: bopti-image
+    name: S_M4A4
+
+SCAR_20.png:
+    type: bopti-image
+    name: S_SCAR_20
+
+SG553.png:
+    type: bopti-image
+    name: S_SG553
+
+SSG_08.png:
+    type: bopti-image
+    name: S_SSG_08
+
+MAC_10.png:
+    type: bopti-image
+    name: S_MAC_10
+
+MPS_SD.png:
+    type: bopti-image
+    name: S_MPS_SD
+
+MP7.png:
+    type: bopti-image
+    name: S_MP7
+
+MP9.png:
+    type: bopti-image
+    name: S_MP9
+
+PP_BIZON.png:
+    type: bopti-image
+    name: S_PP_BIZON
+
+P90.png:
+    type: bopti-image
+    name: S_P90
+
+UMP_45.png:
+    type: bopti-image
+    name: S_UMP_45
+
+MAG_7.png:
+    type: bopti-image
+    name: S_MAG_7
+
+NOVA.png:
+    type: bopti-image
+    name: S_NOVA
+
+SAWED_OFF.png:
+    type: bopti-image
+    name: S_SAWED_OFF
+
+XM1014.png:
+    type: bopti-image
+    name: S_XM1014
+
+M249.png:
+    type: bopti-image
+    name: S_M249
+
+NEGEV.png:
+    type: bopti-image
+    name: S_NEGEV
+
+BAYONET.png:
+    type: bopti-image
+    name: S_BAYONET
+
+BOWIE_KNIFE.png:
+    type: bopti-image
+    name: S_BOWIE_KNIFE
+
+BUTTERFLY_KNIFE.png:
+    type: bopti-image
+    name: S_BUTTERFLY_KNIFE
+
+CLASSIC_KNIFE.png:
+    type: bopti-image
+    name: S_CLASSIC_KNIFE
+
+FALCHION_KNIFE.png:
+    type: bopti-image
+    name: S_FALCHION_KNIFE
+
+FLIP_KNIFE.png:
+    type: bopti-image
+    name: S_FLIP_KNIFE
+
+GUT_KNIFE.png:
+    type: bopti-image
+    name: S_GUT_KNIFE
+
+HUNTSMAN_KNIFE.png:
+    type: bopti-image
+    name: S_HUNTSMAN_KNIFE
+
+KARAMBIT.png:
+    type: bopti-image
+    name: S_KARAMBIT
+
+KUKRI_KNIFE.png:
+    type: bopti-image
+    name: S_KUKRI_KNIFE
+
+M9_BAYONET.png:
+    type: bopti-image
+    name: S_M9_BAYONET
+
+NAVAJA_KNIFE.png:
+    type: bopti-image
+    name: S_NAVAJA_KNIFE
+
+NOMAD_KNIFE.png:
+    type: bopti-image
+    name: S_NOMAD_KNIFE
+
+PARACORD_KNIFE.png:
+    type: bopti-image
+    name: S_PARACORD_KNIFE
+
+SHADOW_DAGGERS.png:
+    type: bopti-image
+    name: S_SHADOW_DAGGERS
+
+SKELETON_KNIFE.png:
+    type: bopti-image
+    name: S_SKELETON_KNIFE
+
+STILLETO_KNIFE.png:
+    type: bopti-image
+    name: S_STILLETO_KNIFE
+
+SURVIVAL_KNIFE.png:
+    type: bopti-image
+    name: S_SURVIVAL_KNIFE
+
+TALON_KNIFE.png:
+    type: bopti-image
+    name: S_TALON_KNIFE
+
+URSUS_KNIFE.png:
+    type: bopti-image
+    name: S_URSUS_KNIFE
